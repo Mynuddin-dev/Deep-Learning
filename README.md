@@ -15,6 +15,7 @@
 - Dropout Layer
     - [Dropout Layer - The unconventional regularization technique | 2nd paragraph**](https://deepnotes.io/dropout)
     - [Are these dropped out neurons also zeros (turned off) during back-prop ?](https://stats.stackexchange.com/questions/219236/dropout-forward-prop-vs-back-prop-in-machine-learning-neural-network)
+    - [neuralthreads | medium](https://medium.com/@neuralthreads)
 
 
 
