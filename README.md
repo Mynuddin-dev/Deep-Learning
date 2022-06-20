@@ -12,6 +12,9 @@
     - [Fundamentals of Deep Learning – Activation Functions and When to Use Them?](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/) 
     - [Keras layer activation function](https://keras.io/api/layers/activations/)
     - [tf-keras activation function](https://www.tensorflow.org/api_docs/python/tf/keras/activations)
+- Dropout Layer
+    - [Dropout Layer - The unconventional regularization technique | 2nd paragraph**](https://deepnotes.io/dropout)
+    - [Are these dropped out neurons also zeros (turned off) during back-prop ?](https://stats.stackexchange.com/questions/219236/dropout-forward-prop-vs-back-prop-in-machine-learning-neural-network)
 
 
 
