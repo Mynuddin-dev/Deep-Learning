@@ -4,8 +4,12 @@
 - [Deep Learning basic theory | Krish Naik](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=1)
 - [Neural Networks | IBM](https://www.ibm.com/cloud/learn/neural-networks)
 - [Neural networks | 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Gradient Descent | IBM](https://www.ibm.com/cloud/learn/gradient-descent)
-- [The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
+- Gradient Descent
+    - [Gradient Descent | IBM](https://www.ibm.com/cloud/learn/gradient-descent)
+    - [The Challenge of Vanishing/Exploding Gradients in Deep Neural Networks](https://www.analyticsvidhya.com/blog/2021/06/the-challenge-of-vanishing-exploding-gradients-in-deep-neural-networks/)
+    - [Variants of Gradient Descent Algorithm](https://www.analyticsvidhya.com/blog/2021/03/variants-of-gradient-descent-algorithm/)
+    - [Batch, Mini Batch & Stochastic Gradient Descent](https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a)
+    - 
 - Activation Function
     - [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions#h1)
     - [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
